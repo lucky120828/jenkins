@@ -1,1 +1,2 @@
-priint("hello world")
+print("hello world")
+print("good good study day day up")
